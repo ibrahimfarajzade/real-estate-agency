@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IbrahimFarajzade_HW1</string>
+
+    <string name="tvTitle">Real Estate</string>
+    <string name="tvSubTitle">Agency</string>
+
+    <string name="etId">ID</string>
+    <string name="etName">Name</string>
+    <string name="etPrice">Price</string>
+    <string name="btnAdd">ADD</string>
+    <string name="btnUpdate">UPDATE</string>
+    <string name="btnDelete">DELETE</string>
+    <string name="btnFragment">SHOW PLACES</string>
+
+    <string-array name="products_array">
+        <item>Tiger Black T-shirt</item>
+        <item>Tiger Blue T-shirt</item>
+        <item>Tiger Grey T-shirt</item>
+        <item>Tiger Gradient T-shirt</item>
+        <item>Kenzo Paris T-Shirt</item>
+    </string-array>
+</resources>
