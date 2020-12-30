@@ -1,3 +1,3 @@
 # RealEstateAgency  
-Rel Estate Agency android app developed using Java  
+Real Estate Agency android app developed using Java  
 Spring 2019
